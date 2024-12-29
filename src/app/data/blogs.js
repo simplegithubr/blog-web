@@ -1,35 +1,4 @@
 
-
-// export const blogs = [
-//   {
-//     id: "1",
-//     title: "Sagar is an electrical artist with a passion for art",
-//     category: "home-decor-diys",
-//     image: "/imgs.jpg",
-//     date: "June 14, 2018",
-//     author: "kinza sheikh",
-//     summary:'Home Decor DIYs 
-//             Discover creative and budget-friendly DIY projects to transform your home into a personalized and stylish space. From custom wall art and upcycled furniture to unique lighting and storage solutions, these ideas are easy to try and designed for beginners. Add a personal touch to every corner of your home while being creative and eco-friendly',
-
-   
-  
-    
-  
-  
-
-//   },
-//   {
-// id: "2",
-
-//     title: "The Pomodoro Technique Really Works",
-//     category: "Management",
-//     image: "/movi.jpg",
-//     date: "July 20, 2019",
-//     author: "sagar sheikh",
-//     content: ""
-
-//   }
-// ]
 export const blogs = [
   {
     id: "1",
